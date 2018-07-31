@@ -9,12 +9,12 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>exercice 6</title>
   </head>
   <body>
     <p>
       <?php
-      // affichage 
+      // affichage
         echo intro('Theo', 'Skrud', 21)
        ?>
     </p>
